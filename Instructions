@@ -1,4 +1,4 @@
 Instructions on running the FDTD Project:
 
 1. download and extract data_oxi_sfaira.mat from http://www.filedropper.com/dataoxisfaira
-
+2. create a folder containing data_oxi_sfaira.mat, moviesc.m and physical_constants.m
