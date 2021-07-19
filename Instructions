@@ -4,4 +4,4 @@ Instructions on running the FDTD Project:
 2. create a folder containing data_oxi_sfaira.mat, moviesc.m and physical_constants.m
 3. download openEMS software from http://openems.de/start/index.php and include file in the current directory
 4. run moviesc.m
-5. have fun! :smile:
+5. have fun! :smiley:
